@@ -1,0 +1,21 @@
+Title: Fundição
+Use case: stylized-concept
+Asset: final desktop wallpaper for the Omarchy Joinville theme
+
+SCENE
+Interior of a large iron foundry (Manchester Catarinense): a ladle pouring molten iron into sand moulds, sparks, brick chimneys and steel trusses, workers small in the scale of the hall.
+
+COMPOSITION AND LIGHT
+Darkness lit almost only by molten orange metal, steam and smoke catching the light, cool blue daylight from high windows.
+
+SHARED STYLE
+Fine painterly pixel art in the spirit of nineteenth-century romantic landscape painting. Deliberate small pixel clusters, crisp silhouettes, articulated architecture and vegetation, coherent subtle texture. Palette anchored on the Joinville theme: deep night blue #0F1A2A, heraldic blue #1F4E8C, plaster white #EEEAE0, heraldic gold #E0B043, roof-tile red #E46F57, enxaimel timber brown #C28C60, palm green #62A86D, Babitonga water cyan #4FB8B4, orchid magenta #C876BB, molten-iron orange #E8833A. Humid subtropical atmosphere: mist on the Serra do Mar, wet surfaces, soft rain where noted. Romantic atmospheric depth with readable foreground detail and calm areas suitable for a desktop (keep the top-left and centre free of busy detail). Preserve each scene's time of day; do not impose golden sunset on nocturnal scenes. People are incidental and integrated into the same texture, never photorealistic or large outlined game sprites.
+
+GLOBAL CONSTRAINTS
+Avoid blur, smeared detail, coarse mosaic, random grain, excessive sharpening, text, logos, coats of arms, sports badges, signatures, borders and UI. No identifiable real people.
+
+OUTPUT
+Edge-to-edge 16:9, 3840x2160 PNG. No post-generation upscaling.
+
+SCENE CONSTRAINTS
+Industrial scale readable. No company names or logos, no modern safety signage.

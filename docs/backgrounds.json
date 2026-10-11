@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Colon, 1851",
+    "file": "backgrounds/01-colon-1851.png",
+    "prompt": "docs/prompts/01-colon-1851.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 2807155,
+    "sha256": "305810cfd1156aaa544e06f55d2ca06273d735783de19a15a941ede0e36e86a7"
+  },
+  {
+    "title": "Rua das Palmeiras",
+    "file": "backgrounds/02-rua-das-palmeiras.png",
+    "prompt": "docs/prompts/02-rua-das-palmeiras.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 3132484,
+    "sha256": "8e8f3af96e4efb69baa9931e706675d5f08d01566c34c055713fae5b299335bf"
+  },
+  {
+    "title": "Enxaimel — Estrada Bonita",
+    "file": "backgrounds/03-enxaimel-estrada-bonita.png",
+    "prompt": "docs/prompts/03-enxaimel-estrada-bonita.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 3545534,
+    "sha256": "79b4420fa486cfe710d98b9ad07a12d6d1329d2dc56797911cd02b80abb045f1"
+  },
+  {
+    "title": "Rio Cachoeira",
+    "file": "backgrounds/04-rio-cachoeira.png",
+    "prompt": "docs/prompts/04-rio-cachoeira.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 2952266,
+    "sha256": "ce7b1ba180f188d1ec42bed1667bb755c7707c5b0249b19b59d087efae4d0d23"
+  },
+  {
+    "title": "O Moinho",
+    "file": "backgrounds/05-moinho.png",
+    "prompt": "docs/prompts/05-moinho.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 3211306,
+    "sha256": "e3eb93c9c946131a3e2ac147d278663252d54853edc15aa08ff2cdd9f2634efa"
+  },
+  {
+    "title": "Festa das Flores",
+    "file": "backgrounds/06-festa-das-flores.png",
+    "prompt": "docs/prompts/06-festa-das-flores.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 3423738,
+    "sha256": "255d6ebda58c0bf00f7705a8445688641bff7e00b87513aa45b0e6ae226e2188"
+  },
+  {
+    "title": "Noite de Dança",
+    "file": "backgrounds/07-noite-de-danca.png",
+    "prompt": "docs/prompts/07-noite-de-danca.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 2279685,
+    "sha256": "442c0bcdfd09b1800bc9459d64d4f3154c3aeb4a738e6d44f550f69b7bb301c4"
+  },
+  {
+    "title": "Fundição",
+    "file": "backgrounds/08-fundicao.png",
+    "prompt": "docs/prompts/08-fundicao.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 2640500,
+    "sha256": "ecaf08ce2637eb5f397d24f0433e8c2fadda80a46b6756fdbb4bd131b311523c"
+  },
+  {
+    "title": "Turno de Bicicleta",
+    "file": "backgrounds/09-turno-de-bicicleta.png",
+    "prompt": "docs/prompts/09-turno-de-bicicleta.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 3392937,
+    "sha256": "94c545d40196445387faf7404b1e7d30d852bbaa06ed33ddd6f21a22546c7378"
+  },
+  {
+    "title": "Mirante — Babitonga",
+    "file": "backgrounds/10-mirante-babitonga.png",
+    "prompt": "docs/prompts/10-mirante-babitonga.txt",
+    "width": 1672,
+    "height": 941,
+    "native_4k": false,
+    "generator": "codex built-in image_gen",
+    "bytes": 2868680,
+    "sha256": "9cde390068f8801b3b3ed13b76d8ede895c16c9f116f91326c89cfd44f726d12"
+  }
+]

@@ -1,0 +1,128 @@
+# Joinville — superfícies opacas azul-noite, texto reboco e bordas douradas.
+[bar]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+active = "#E46F57"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#E0B043"
+active-border-foreground = "#EEEAE0"
+
+[controls]
+normal-color = "#EEEAE0"
+normal-fill-alpha = 0.04
+normal-border = "#EEEAE0"
+normal-border-width = 1
+normal-border-alpha = 0.4
+hover-cursor-color = "#EEEAE0"
+hover-cursor-fill-alpha = 0.08
+hover-cursor-border = "#EEEAE0"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.25
+focus-color = "#EEEAE0"
+focus-fill-alpha = 0.08
+focus-border = "#E0B043"
+focus-border-width = 1
+focus-border-alpha = 1.0
+selected-color = "#EEEAE0"
+selected-fill-alpha = 0.08
+selected-border = "#EEEAE0"
+selected-border-width = 0
+selected-border-alpha = 1.0
+pressed-fill-alpha = 0.10
+selection-fill-alpha = 0.10
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+border = "#E0B043"
+border-alpha = 1.0
+
+[tooltip]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+border = "#E0B043"
+border-alpha = 1.0
+
+[notifications]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+border = "#E0B043"
+border-alpha = 1.0
+countdown = "#E0B043"
+
+[launcher]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+border = "#E0B043"
+border-alpha = 1.0
+scrim = "#0F1A2A"
+scrim-alpha = 0.5
+selected-background = "#1F4E8C"
+selected-background-alpha = 1.0
+selected-text = "#EEEAE0"
+selected-border = "#E0B043"
+selected-border-alpha = 1.0
+
+[menu]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+border = "#E0B043"
+border-alpha = 1.0
+scrim = "#0F1A2A"
+scrim-alpha = 0.5
+selected-background = "#1F4E8C"
+selected-background-alpha = 1.0
+selected-text = "#EEEAE0"
+selected-border = "#E0B043"
+selected-border-alpha = 1.0
+
+[polkit]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+text-error = "#E46F57"
+border = "#E0B043"
+border-error = "#E46F57"
+border-alpha = 1.0
+scrim = "#0F1A2A"
+scrim-alpha = 0.5
+accent = "#E0B043"
+
+[lock]
+background = "#18263A"
+background-alpha = 1.0
+text = "#EEEAE0"
+placeholder = "#8593A8"
+text-error = "#E46F57"
+border = "#E0B043"
+border-active = "#E0B043"
+border-error = "#E46F57"
+border-alpha = 1.0
+selection = "#1F4E8C"
+selection-alpha = 1.0
+
+[image-picker]
+scrim = "#0F1A2A"
+scrim-alpha = 0.5
+text = "#EEEAE0"
+selected-border = "#E0B043"
+selected-border-alpha = 1.0
+unselected-border = "#EEEAE0"
+unselected-border-alpha = 0.28
